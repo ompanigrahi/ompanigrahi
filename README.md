@@ -6,10 +6,13 @@
 - <ul>
   <li>
     email: ompani6167@gmail.com <br>
+    
     Instagram: https://www.instagram.com/_ompanigrahi__/?igshid=YTQwZjQ0NmI0OA%3D%3D <br>
     
     X.com: https://twitter.com/OmPanigrahi67?t=UOdyHnVaYER5P1Rq5ZD6tQ&s=08 <br>
+    
     Whatsapp: https://api.whatsapp.com/send/?phone=918455975766&text=Hello+Om.+This+is+a+automated+message+through+your+portfolio+website.&type=phone_number&app_absent=0 <br>
+    
     Phone: 8455975766
   </li>
 </ul>
